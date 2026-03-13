@@ -5,8 +5,8 @@ It is designed to simplify the process of color identification for graphic desig
 
 ## 🛠️ Technologies Used
 The project is built using Python and the following key libraries:
-- **Tkinter**: The standard Python library for creating the Graphical User Interface (GUI), managing the main window, and handling click events.
-- **Pillow (PIL)**: Used for image processing, allowing the application to open image files, convert them to RGB format, and extract pixel color data.
+- **`Tkinter`**: The standard Python library for creating the Graphical User Interface (GUI), managing the main window, and handling click events.
+- **`Pillow (PIL)`**: Used for image processing, allowing the application to open image files, convert them to RGB format, and extract pixel color data.
 
 ## 🚀 Features
 - **Interactive Image Display**: The selected image is loaded and displayed on a Canvas widget at its original size.
